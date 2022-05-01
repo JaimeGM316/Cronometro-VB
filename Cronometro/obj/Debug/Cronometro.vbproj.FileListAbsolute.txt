@@ -1,0 +1,15 @@
+C:\Users\empol\Desktop\Practica7\Practica7\bin\Debug\Practica7.exe.config
+C:\Users\empol\Desktop\Practica7\Practica7\obj\Debug\Practica7.exe
+C:\Users\empol\Desktop\Practica7\Practica7\obj\Debug\Practica7.xml
+C:\Users\empol\Desktop\Practica7\Practica7\obj\Debug\Practica7.pdb
+C:\Users\empol\Desktop\Practica7\Practica7\bin\Debug\Practica7.exe
+C:\Users\empol\Desktop\Practica7\Practica7\bin\Debug\Practica7.pdb
+C:\Users\empol\Desktop\Practica7\Practica7\bin\Debug\Practica7.xml
+C:\Users\empol\Desktop\Practica7\Practica7\obj\Debug\Cronometro.vbprojResolveAssemblyReference.cache
+C:\Users\empol\Desktop\Practica7\Practica7\obj\Debug\Practica7.Resources.resources
+C:\Users\empol\Desktop\Practica7\Practica7\obj\Debug\Practica7.frmPrincipal.resources
+C:\Users\empol\Desktop\Practica7\Practica7\obj\Debug\Cronometro.vbproj.GenerateResource.Cache
+C:\Users\empol\Desktop\Cronometro\Cronometro\bin\Debug\Practica7.exe.config
+C:\Users\empol\Desktop\Cronometro\Cronometro\obj\Debug\Practica7.exe
+C:\Users\empol\Desktop\Cronometro\Cronometro\obj\Debug\Practica7.xml
+C:\Users\empol\Desktop\Cronometro\Cronometro\obj\Debug\Practica7.pdb

@@ -1,0 +1,41 @@
+c:\users\empol\documents\visual studio 2015\Projects\Practica7\Practica7\bin\Debug\Practica7.exe.config
+c:\users\empol\documents\visual studio 2015\Projects\Practica7\Practica7\bin\Debug\Practica7.exe
+c:\users\empol\documents\visual studio 2015\Projects\Practica7\Practica7\bin\Debug\Practica7.pdb
+c:\users\empol\documents\visual studio 2015\Projects\Practica7\Practica7\bin\Debug\Practica7.xml
+c:\users\empol\documents\visual studio 2015\Projects\Practica7\Practica7\obj\Debug\Practica7.vbprojResolveAssemblyReference.cache
+c:\users\empol\documents\visual studio 2015\Projects\Practica7\Practica7\obj\Debug\Practica7.Resources.resources
+c:\users\empol\documents\visual studio 2015\Projects\Practica7\Practica7\obj\Debug\Practica7.frmPrincipal.resources
+c:\users\empol\documents\visual studio 2015\Projects\Practica7\Practica7\obj\Debug\Practica7.vbproj.GenerateResource.Cache
+c:\users\empol\documents\visual studio 2015\Projects\Practica7\Practica7\obj\Debug\Practica7.exe
+c:\users\empol\documents\visual studio 2015\Projects\Practica7\Practica7\obj\Debug\Practica7.xml
+c:\users\empol\documents\visual studio 2015\Projects\Practica7\Practica7\obj\Debug\Practica7.pdb
+D:\Interfaces\Practica7\Practica7\bin\Debug\Practica7.exe.config
+D:\Interfaces\Practica7\Practica7\obj\Debug\Practica7.exe
+D:\Interfaces\Practica7\Practica7\obj\Debug\Practica7.xml
+D:\Interfaces\Practica7\Practica7\obj\Debug\Practica7.pdb
+D:\Interfaces\Practica7\Practica7\obj\Debug\Practica7.vbprojResolveAssemblyReference.cache
+D:\Interfaces\Practica7\Practica7\obj\Debug\Practica7.Resources.resources
+D:\Interfaces\Practica7\Practica7\obj\Debug\Practica7.frmPrincipal.resources
+D:\Interfaces\Practica7\Practica7\obj\Debug\Practica7.vbproj.GenerateResource.Cache
+C:\Users\DAM2B-08\Documents\Visual Studio 2015\Projects\Practica7\Practica7\bin\Debug\Practica7.exe.config
+C:\Users\DAM2B-08\Documents\Visual Studio 2015\Projects\Practica7\Practica7\obj\Debug\Practica7.exe
+C:\Users\DAM2B-08\Documents\Visual Studio 2015\Projects\Practica7\Practica7\obj\Debug\Practica7.xml
+C:\Users\DAM2B-08\Documents\Visual Studio 2015\Projects\Practica7\Practica7\obj\Debug\Practica7.pdb
+C:\Users\DAM2B-08\Documents\Visual Studio 2015\Projects\Practica7\Practica7\obj\Debug\Practica7.vbprojResolveAssemblyReference.cache
+C:\Users\DAM2B-08\Documents\Visual Studio 2015\Projects\Practica7\Practica7\obj\Debug\Practica7.Resources.resources
+C:\Users\DAM2B-08\Documents\Visual Studio 2015\Projects\Practica7\Practica7\obj\Debug\Practica7.frmPrincipal.resources
+C:\Users\DAM2B-08\Documents\Visual Studio 2015\Projects\Practica7\Practica7\obj\Debug\Practica7.vbproj.GenerateResource.Cache
+C:\Users\DAM2B-08\Documents\Visual Studio 2015\Projects\Practica7\Practica7\bin\Debug\Practica7.exe
+C:\Users\DAM2B-08\Documents\Visual Studio 2015\Projects\Practica7\Practica7\bin\Debug\Practica7.pdb
+C:\Users\DAM2B-08\Documents\Visual Studio 2015\Projects\Practica7\Practica7\bin\Debug\Practica7.xml
+C:\Users\empol\Desktop\Practica7\Practica7\bin\Debug\Practica7.exe.config
+C:\Users\empol\Desktop\Practica7\Practica7\obj\Debug\Practica7.exe
+C:\Users\empol\Desktop\Practica7\Practica7\obj\Debug\Practica7.xml
+C:\Users\empol\Desktop\Practica7\Practica7\obj\Debug\Practica7.pdb
+C:\Users\empol\Desktop\Practica7\Practica7\bin\Debug\Practica7.exe
+C:\Users\empol\Desktop\Practica7\Practica7\bin\Debug\Practica7.pdb
+C:\Users\empol\Desktop\Practica7\Practica7\bin\Debug\Practica7.xml
+C:\Users\empol\Desktop\Practica7\Practica7\obj\Debug\Practica7.vbprojResolveAssemblyReference.cache
+C:\Users\empol\Desktop\Practica7\Practica7\obj\Debug\Practica7.Resources.resources
+C:\Users\empol\Desktop\Practica7\Practica7\obj\Debug\Practica7.frmPrincipal.resources
+C:\Users\empol\Desktop\Practica7\Practica7\obj\Debug\Practica7.vbproj.GenerateResource.Cache
